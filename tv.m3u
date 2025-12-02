@@ -379,8 +379,6 @@ https://stream1.freetv.fun/gold-star-1.m3u8
 https://stream1.freetv.fun/discovery-5.ctv
 #EXTINF:-1 ,discovery
 https://stream1.freetv.fun/discovery--s-1.m3u8
-#EXTINF:-1 group-title="备用频道",备用频道
-https://127.0.0.1/0.m3u
 #EXTINF:-1 group-title="JULI" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 76
 https://hknat.946985.filegear-sg.me/hoy.php?ch=ch76
 #EXTINF:-1 group-title="JULI" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
