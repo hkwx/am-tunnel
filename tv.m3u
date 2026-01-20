@@ -113,4 +113,399 @@ http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="港台", 翡翠
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
- 
+ #EXTINF:-1 group-title="CCTV", CCTV1
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV2
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV3
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV4
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV5
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV6
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV7
+http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV8
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV9
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV10
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV11
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV12
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV13
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV14
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV15
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV16
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="CCTV", CCTV17
+http://112.27.235.94:8000/hls/17/index.m3u8
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png",凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/澳视澳门.png",澳视澳门
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/澳视卫星.png",澳视卫星
+http://r.jdshipin.com/QFhCq
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png",翡翠台
+http://r.jdshipin.com/GeWKr
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/明珠台.png",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/明珠台.png",明珠台
+http://r.jdshipin.com/jUx8K
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png",TVBPlus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/无线新闻.png",无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/华丽翡翠台.png",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/ViuTV.png",ViuTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png",HOYTV
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东珠江.png",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东体育.png",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州综合.png",广州综合
+http://r.jdshipin.com/iR6Gq
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州南国都市.png",南国都市
+http://r.jdshipin.com/nWaZO
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广州综合.png",广州综合
+http://r.jdshipin.com/snhya
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png",海峡卫视
+http://r.jdshipin.com/WtYt3
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰卫视台.png",凤凰卫视
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png",凤凰资讯
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰香港台.png",凤凰香港
+http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png",翡翠台
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/珠江卫视.png",珠江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=19
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png",美亚电影
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/有线新闻.png",有线新闻
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 group-title="港澳代理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",凤凰中文高清
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",凤凰资讯高清
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png",凤凰香港高清
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港澳台频道",星空国际
+http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png",澳门卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png",澳视澳门
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",TVB无线新闻
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠.png",华丽翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png",TVB明珠台
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/千禧经典.png",千禧经典
+http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png",星空卫视
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/耀才财经.png",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ASTROAOD.png",ASTROAOD
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ELTA4.png",ELEVEN体育1
+https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ELTA5.png",ELEVEN体育2
+https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ELTA6.png",ELEVEN体育3
+https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视频道.png",凤凰卫视台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯频道.png",凤凰资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港频道.png",凤凰香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/翡翠台4K.png",翡翠台4K
+http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/翡翠台北美版.png",翡翠台北美版
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png",TVBPlus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/八度空间.png",八度空间
+https://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/CH5.png",CH5
+https://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/CH8.png",CH8
+https://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/CHU.png",CHU
+https://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png",天映经典
+http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png",AstroAOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/Astro AEC.png",AstroAEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠台.png",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/NOWNEWS.png",NOWNEWS
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
+https://cdn6.163189.xyz/163189/as
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png",澳视澳门
+https://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/澳门体育.png",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png",澳门综艺
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png",七龙珠
+http://www.douzhicloud.site:35455/huya/11601966
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png",灌篮高手
+http://www.douzhicloud.site:35455/yy/1382735626
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png",哆啦A梦
+http://www.douzhicloud.site:35455/huya/11601963
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/猫和老鼠.png",猫和老鼠
+http://www.douzhicloud.site:35455/huya/11352879
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/蜡笔小新.png",蜡笔小新
+http://www.douzhicloud.site:35455/bilibili/30837590
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png",精灵宝可梦
+http://www.douzhicloud.site:35455/huya/23749096
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png",名侦探柯南
+http://www.douzhicloud.site:35455/huya/30080236
+#EXTINF:-1 group-title="动画频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/中华小当家.png",中华小当家
+http://www.douzhicloud.site:35455/huya/11342413
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",周星驰电影
+http://www.douzhicloud.site:35455/huya/11342412
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",林正英电影
+http://www.douzhicloud.site:35455/huya/11342421
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",刘德华电影
+http://www.douzhicloud.site:35455/huya/11342424
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",成龙电影
+http://www.douzhicloud.site:35455/huya/11342386
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",李连杰电影
+http://www.douzhicloud.site:35455/huya/11342390
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",甄子丹电影
+http://www.douzhicloud.site:35455/huya/11352935
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",沈腾电影
+http://www.douzhicloud.site:35455/huya/11601968
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",黄渤电影
+http://www.douzhicloud.site:35455/huya/11352876
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",强森电影
+http://www.douzhicloud.site:35455/huya/21059581
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",王晶电影
+http://www.douzhicloud.site:35455/huya/11602058
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",金庸武侠
+http://www.douzhicloud.site:35455/huya/11342435
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",功夫电影
+http://www.douzhicloud.site:35455/huya/11352941
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",贺岁电影
+http://www.douzhicloud.site:35455/huya/11601986
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",怪兽电影
+http://www.douzhicloud.site:35455/huya/21059577
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",武侠电影
+http://www.douzhicloud.site:35455/huya/11342427
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",玄幻电影
+http://www.douzhicloud.site:35455/huya/11342414
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",罪犯电影
+http://www.douzhicloud.site:35455/huya/11352962
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",战争电影
+http://www.douzhicloud.site:35455/huya/21059574
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",谍战电影
+http://www.douzhicloud.site:35455/huya/21059585
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",枪战电影
+http://www.douzhicloud.site:35455/huya/21059579
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",狄仁杰电影
+http://www.douzhicloud.site:35455/huya/30080229
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",末日电影合集
+http://www.douzhicloud.site:35455/yy/1354889019
+#EXTINF:-1 group-title="虎牙影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png",宇宙科幻合集
+http://www.douzhicloud.site:35455/huya/11342428
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",古装武侠
+http://www.douzhicloud.site:35455/douyu/2793084
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",邵氏影院
+http://www.douzhicloud.site:35455/douyu/4246519
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",冰冰影剧
+http://www.douzhicloud.site:35455/douyu/74374
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",刀刀影院
+http://www.douzhicloud.site:35455/douyu/747764
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",华语影视
+http://www.douzhicloud.site:35455/douyu/3928
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",斗鱼港剧
+http://www.douzhicloud.site:35455/douyu/5061550
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",橙记港剧
+http://www.douzhicloud.site:35455/douyu/4549169
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",经典剧集
+http://www.douzhicloud.site:35455/douyu/6863367
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",热门港剧
+http://www.douzhicloud.site:35455/douyu/5522351
+#EXTINF:-1 group-title="斗鱼影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/斗鱼.png",贝爷求生
+http://www.douzhicloud.site:35455/douyu/4332
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png",延禧攻略
+http://www.douzhicloud.site:35455/huya/26355864
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png",琅琊榜
+http://www.douzhicloud.site:35455/huya/11352944
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png",新水浒传
+http://www.douzhicloud.site:35455/huya/11342384
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png",新叁国（斗鱼）
+http://www.douzhicloud.site:35455/douyu/5908256
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png",少年包青天第一部
+http://www.douzhicloud.site:35455/yy/1356043677
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png",少年包青天第叁部
+http://www.douzhicloud.site:35455/yy/1382736814
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰1.png",神探狄仁杰第一部
+http://www.douzhicloud.site:35455/huya/11352958
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png",神探狄仁杰第二部
+http://www.douzhicloud.site:35455/douyu/6027991
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png",神探狄仁杰第叁部
+http://www.douzhicloud.site:35455/huya/11342425
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png",爱情公寓
+http://www.douzhicloud.site:35455/huya/11336726
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png",亮剑
+http://www.douzhicloud.site:35455/huya/30080238
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png",雪豹
+http://www.douzhicloud.site:35455/huya/29580970
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/特种兵之火凤凰.png",特种兵之火凤凰
+http://www.douzhicloud.site:35455/huya/29982636
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png",士兵突击
+http://www.douzhicloud.site:35455/huya/11342430
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png",笑傲江湖
+http://www.douzhicloud.site:35455/huya/26355790
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png",神凋侠侣
+http://www.douzhicloud.site:35455/huya/11352964
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png",天龙八部
+http://www.douzhicloud.site:35455/huya/20985816
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png",倚天屠龙记
+http://www.douzhicloud.site:35455/huya/11342403
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png",铁齿铜牙纪晓岚
+http://www.douzhicloud.site:35455/huya/11342396
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/康熙王朝.png",康熙王朝
+http://www.douzhicloud.site:35455/huya/11352940
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png",陈情令
+http://www.douzhicloud.site:35455/huya/29465862
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png",庆余年
+http://www.douzhicloud.site:35455/huya/11352960
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png",鬼吹灯之精绝古城
+http://www.douzhicloud.site:35455/huya/11352871
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png",鬼吹灯之怒晴湘西
+http://www.douzhicloud.site:35455/huya/11602075
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png",鬼吹灯之龙岭迷窟
+http://www.douzhicloud.site:35455/huya/29465863
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png",鬼吹灯之云南虫谷
+http://www.douzhicloud.site:35455/huya/11352898
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png",伪装者
+http://www.douzhicloud.site:35455/yy/1354936244
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png",西游记后传
+http://www.douzhicloud.site:35455/yy/1353392400
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png",隋唐英雄传
+http://www.douzhicloud.site:35455/yy/1352475619
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png",仙剑奇侠传
+http://www.douzhicloud.site:35455/yy/1382749903
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png",西游记续集
+http://www.douzhicloud.site:35455/douyu/3113309
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png",我是特种兵之利刃出鞘
+http://www.douzhicloud.site:35455/yy/37999586
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png",狂飙
+http://www.douzhicloud.site:35455/yy/1355142167
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png",叁国演义
+http://www.douzhicloud.site:35455/huya/11602081
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新白娘子传奇.png",新白娘子传奇
+http://www.douzhicloud.site:35455/yy/1354490667
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/乌龙闯情关.png",乌龙闯情关
+http://www.douzhicloud.site:35455/huya/26355767
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",柳舟计
+http://www.douzhicloud.site:35455/huya/23860039
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",与凤行
+http://www.douzhicloud.site:35455/huya/26355866
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",大秦赋
+http://www.douzhicloud.site:35455/huya/23903130
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",永夜星河
+http://www.douzhicloud.site:35455/huya/23734169
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",流水迢迢
+http://www.douzhicloud.site:35455/huya/23865036
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",玫瑰的故事
+http://www.douzhicloud.site:35455/huya/23865142
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",知否知否
+http://www.douzhicloud.site:35455/yy/21881901
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",父母爱情
+http://www.douzhicloud.site:35455/yy/1354926650
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",欢乐颂
+http://www.douzhicloud.site:35455/yy/1382735624
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",康熙微服私访记
+http://www.douzhicloud.site:35455/huya/11342418
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",如懿传
+http://www.douzhicloud.site:35455/huya/29465868
+#EXTINF:-1 group-title="电视剧频道" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png",芈月传
+http://www.douzhicloud.site:35455/huya/11352975
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",楚汉骄雄
+http://www.douzhicloud.site:35455/huya/29465854
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",寻秦记
+http://www.douzhicloud.site:35455/huya/29465848
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",封神榜
+http://www.douzhicloud.site:35455/huya/29465849
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",西游记2
+http://www.douzhicloud.site:35455/huya/29465859
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",鹿鼎记
+http://www.douzhicloud.site:35455/yy/28265277
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",天龙八部
+http://www.douzhicloud.site:35455/yy/1351814644
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",射凋英雄传
+http://www.douzhicloud.site:35455/huya/23824164
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",活佛济公3
+http://www.douzhicloud.site:35455/huya/23903123
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",无心法师
+http://www.douzhicloud.site:35455/huya/30080233
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",谈判专家
+http://www.douzhicloud.site:35455/yy/1382735560
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",刑事侦缉档桉
+http://www.douzhicloud.site:35455/huya/29465856
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",洗冤录
+http://www.douzhicloud.site:35455/huya/29465851
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",陀枪师姐
+http://www.douzhicloud.site:35455/huya/29465857
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",鉴证实录
+http://www.douzhicloud.site:35455/huya/23903183
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",金枝欲孽
+http://www.douzhicloud.site:35455/huya/29465847
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",扫黄先锋
+http://www.douzhicloud.site:35455/huya/29465855
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",妙手仁心
+http://www.douzhicloud.site:35455/huya/29465853
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",大时代
+http://www.douzhicloud.site:35455/huya/23865161
+#EXTINF:-1 group-title="埋堆堆频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png",笑看风云
+http://www.douzhicloud.site:35455/huya/29465858
