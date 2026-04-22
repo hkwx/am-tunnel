@@ -17,8 +17,12 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://f13h.mine.nu/sat/tv721  
 #EXTINF:-1 group-title="tw", 纬来娱乐
 rtmp://f13h.mine.nu/sat/tv701 
-#EXTINF:-1 group-title="港台",鳳凰中文
+#EXTINF:-1 group-title="港台",鳳凰中文1
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港台",鳳凰中文
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd 
+#EXTINF:-1 group-title="港台",凤凰资讯
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="港台",香港鳳凰 
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="港台",明珠
