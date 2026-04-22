@@ -25,6 +25,9 @@ http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 http://r.jdshipin.com/cCCzW
 http://cdn6.163189.xyz/163189/fhzw
 http://iptv.4666888.xyz/iptv2A.php?id=27
+http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
+http://223.95.198.3:8000/hls/20/index.m3u8
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
 #EXTINF:-1 group-title="港台",鳳凰中文财经
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd 
@@ -32,6 +35,7 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="港台",香港鳳凰 
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://feilong123.vip/409990236/hktv.php?id=3
 #EXTINF:-1 group-title="港台",明珠
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="港台",翡翠台 
