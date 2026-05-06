@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="tw",中视
 rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="tw",中天新闻
+rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
+http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 #EXTINF:-1 group-title="tw",台视
 rtmp://f13h.mine.nu/sat/tv071  
 #EXTINF:-1 group-title="tw", 民视
